@@ -1,4 +1,4 @@
-# **Keep jobs app**
+# **Keep jobs**
 
 ## 📌 ***Overview***
 
@@ -90,6 +90,21 @@ BookmarksScreen → JobDetailsScreen
 🛠 Future Enhancements
 
 🚀 Dark Mode Support🚀 Advanced Filters (Job Type, Salary, Location)🚀 Push Notifications for New Jobs
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="23%" />
+ <img src="assets/add.png" width="23%" />
+  <img src="assets/bookmark.png" width="23%" />
+  <img src="assets/details.png" width="23%" />
+</p>
+
+
+## 🎥 Demo Video
+
+[Click here to watch](https://drive.google.com/file/d/1NySUE53CloKdmaFFxFS-WWglQCV6qC-1/view?usp=share_link)
 
 🤝 Contributor
 
